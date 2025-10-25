@@ -34,7 +34,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: ghcr.io/jude1129/my-devops-project:latest
+        tags: ghcr.io/vijayeren30/my-devops-project:latest
 
   deploy:
     name: Deploy to Local Docker Swarm
