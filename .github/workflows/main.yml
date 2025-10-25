@@ -43,6 +43,6 @@ jobs:
     steps:
     - name: Deploy with Terraform
       run: |
-        cd C:\Users\Jacinthhpy\MyDevOpsProject\terraform
+        cd C:\Users\vijay\Devops_IA3\terraform
         terraform init
         terraform apply --auto-approve
